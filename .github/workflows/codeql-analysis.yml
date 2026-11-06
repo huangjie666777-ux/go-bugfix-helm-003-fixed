@@ -50,7 +50,7 @@ jobs:
     # Autobuild attempts to build any compiled languages  (C/C++, C#, or Java).
     # If this step fails, then you should remove it and run the build manually (see below)
     - name: Autobuild
-      uses: github/codeql-action/autobuild@b374143c1149a9115d881581d29b8390bbcbb59c # pinv3.22.11
+      uses: github/codeql-action/autobuild@1fc58d04a4d4374f921bdac573c3811c240f9c26 # pinv4.39.2
 
     # ℹ️ Command-line programs to run using the OS shell.
     # 📚 https://git.io/JvXDl
